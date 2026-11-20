@@ -1,42 +1,81 @@
-# 🌑 Return to Chronicles of Darkness (RtCoD) — Official Development Stuff
+<div align="center">
 
-Добро пожаловать в репозиторий разработки проекта **RtCoD**! Мы создаем хардкорный RPG-сервер в сеттинге тёмного фэнтези на базе **Minecraft 1.20.1 (Forge)** с уникальными механиками, собственным измерением и кастомным лаунчером.
+  <img src="banner.png" alt="RtCoD Banner" width="100%" />
+
+  <br/><br/>
+
+  <h1>🌑 Return to Chronicles of Darkness</h1>
+  <h3><i>Official Development Team & Infrastructure</i></h3>
+
+  <p>
+    <a href="https://github.com/RtCoD-Stuff"><img src="https://img.shields.io/badge/Minecraft-1.20.1-8B0000?style=for-the-badge&logo=minecraft&logoColor=white" /></a>
+    <a href="https://github.com/RtCoD-Stuff"><img src="https://img.shields.io/badge/Forge-47.3+-4A0E4E?style=for-the-badge&logo=curseforge&logoColor=white" /></a>
+    <a href="https://github.com/RtCoD-Stuff"><img src="https://img.shields.io/badge/Platform-Dark_Fantasy-1A0933?style=for-the-badge" /></a>
+    <a href="https://github.com/RtCoD-Stuff"><img src="https://img.shields.io/badge/Status-In_Active_Dev-32004B?style=for-the-badge" /></a>
+  </p>
+
+  <p align="center">
+    <b>Погружение в суровый мир тёмного фэнтези.</b><br/>
+    Собственное программное обеспечение, бескомпромиссная оптимизация и бесшовный вход на сервер.
+  </p>
+
+</div>
 
 ---
 
-## 🎮 Наши ключевые проекты
+### ⚔️ О проекте RtCoD
 
-<table>
+> **RtCoD** — масштабный хардкорный RPG-проект на базе **Minecraft Forge 1.20.1**. 
+> Мы создаём цельную экосистему с уникальным игровым балансом, кастомными измерениями, глубокой системой рас и собственным клиентским лаунчером для комфортного подключения игроков.
+
+---
+
+### 🚀 Основной клиентский софт
+
+<table align="center" width="100%">
   <tr>
-    <td width="33%">
+    <td align="left" width="100%" style="padding: 16px;">
       <h3>🛠️ <a href="https://github.com/RtCoD-Stuff/launcher">RtCoD Launcher</a></h3>
-      <p>Кастомный игровой лаунчер для автоматической авторизации, обновления огромной сборки модов и быстрого подключения к серверу.</p>
-      <code>C# / .NET / WPF</code>
+      <p>
+        Официальный кастомный лаунчер проекта для игроков и команды. Разработан для автоматической доставки обновлений модов, ресурсов и быстрой синхронизации с сервером.
+      </p>
+      <ul>
+        <li><b>Безопасная авторизация</b> и хранение пользовательских сессий</li>
+        <li><b>Фоновая синхронизация</b> сборки модов и конфигураций</li>
+        <li><b>Низкое потребление памяти</b> и оптимизированная загрузка ресурсов</li>
+        <li><b>Интеграция с инфраструктурой</b> сервера под ключ</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/.NET-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/WPF-GUI-4B0082?style=flat-square" />
+        <img src="https://img.shields.io/badge/Release-v1.0.0-green?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔥 Что у нас под капотом
-
-* 🛡️ **Хардкорный баланс:** Кастомные боссы и мобы с прописанным ИИ, стадиями ярости и уникальным лутом.
-* 🌌 **Глубокая оптимизация:** Серверные аналоги плагинов (Donates, Clans) без конфликтов ядер на базе чистого Forge.
-* 🔮 **Атмосфера:** Уникальный саундтрек, 3D-модели вооружения и мрачные биомы Умирающего Королевства.
-
----
-
-## 👥 Наша команда
-
-* 👑 **Главный админ:** [@Админ] — Идейный вдохновитель и руководитель.
-* 💻 **Lead Developer:** [@Твой_Ник] (Oleg) — Разработка модов, плагинов и серверной логики.
-* 🛡️ **3D Modeler:** [Ник] — Создание моделей оружия, брони и боссов.
-* 📣 **PR & Testing Team:** Команда тестеров и пиарщиков, обеспечивающая запуск.
-
----
+### 🛡️ Технологический стек инфраструктуры
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-1.20.1-red?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forge-Active-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,cpp,bash,git,github,linux,gradle" /><br/>
+  <sub><i>C# • .NET Core • Java 17 • Minecraft Forge API • Python • Git • Linux Infrastructure</i></sub>
 </p>
+
+---
+
+### 👥 Команда разработки
+
+| Роль | Участник | Зона ответственности |
+| :--- | :--- | :--- |
+| 👑 **Project Lead / Founder** | `@BlezeGotHub` | Идея, видение мира и менеджмент проекта |
+| 💻 **Lead Developer** | `@Goblin-Inc` | Архитектура модов, лаунчер, бэкенд и серверная логика |
+| 🎨 **3D Art & Modeling** | `Команда моделлеров` | 3D-модели боссов, уникальное вооружение и ассеты |
+| 🛡️ **QA & Community** | `Тестеры и медиа` | Тестирование механик, балансировка и продвижение |
+
+---
+
+<div align="center">
+  <sub>© 2026 RtCoD Team. Все права на модификации и софт защищены.</sub>
+</div>

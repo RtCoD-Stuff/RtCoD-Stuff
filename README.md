@@ -10,8 +10,8 @@
   <p>
     <a href="https://github.com/RtCoD-Stuff"><img src="https://img.shields.io/badge/Minecraft-1.20.1-8B0000?style=for-the-badge&logo=minecraft&logoColor=white" /></a>
     <a href="https://github.com/RtCoD-Stuff"><img src="https://img.shields.io/badge/Forge-47.3+-4A0E4E?style=for-the-badge&logo=curseforge&logoColor=white" /></a>
-    <a href="https://github.com/RtCoD-Stuff"><img src="https://img.shields.io/badge/Platform-Dark_Fantasy-1A0933?style=for-the-badge" /></a>
-    <a href="https://github.com/RtCoD-Stuff"><img src="https://img.shields.io/badge/Status-In_Active_Dev-32004B?style=for-the-badge" /></a>
+    <a href="https://rtcod-stuff.github.io/"><img src="https://img.shields.io/badge/Website-rtcod--stuff.github.io-8B0000?style=for-the badge&logo=googlechrome&logoColor=white" /></a>                  
+    <a href="https://discord.gg/JCFDJtrWvF"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>      <a href="https://t.me/RtCoD_server"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>   
   </p>
 
   <p align="center">
@@ -59,8 +59,8 @@
 ### 🛡️ Технологический стек инфраструктуры
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,cpp,bash,git,github,linux,gradle" /><br/>
-  <sub><i>C# • .NET Core • Java 17 • Minecraft Forge API • Python • Git • Linux Infrastructure</i></sub>
+  <img src="https://skillicons.dev/icons?i=java,python,qt,html,css,js,bash,git,github,linux,gradle" /><br/>
+  <sub><i>Java 17 • Minecraft Forge API • Python 3 • PySide6 (Qt 6) • HTML/CSS/JS • Git • Linux Infrastructure</i></sub>
 </p>
 
 ---

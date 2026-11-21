@@ -4,7 +4,7 @@
 
   <br/><br/>
 
-  <h1>🌑 Return to Chronicles of Darkness</h1>
+  <h1>🌑 Return to Castle of Dark</h1>
   <h3><i>Official Development Team & Infrastructure</i></h3>
 
   <p>

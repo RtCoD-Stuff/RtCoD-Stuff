@@ -35,7 +35,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="left" width="100%" style="padding: 16px;">
-      <h3>🛠️ <a href="https://github.com/RtCoD-Stuff/launcher">RtCoD Launcher</a></h3>
+      <h3>🛠️ <a href="https://github.com/RtCoD-Stuff/rtcod-launcher">RtCoD Launcher</a></h3>
       <p>
         Официальный кастомный лаунчер проекта для игроков и команды. Разработан для автоматической доставки обновлений модов, ресурсов и быстрой синхронизации с сервером.
       </p>

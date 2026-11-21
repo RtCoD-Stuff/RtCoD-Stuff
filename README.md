@@ -12,7 +12,8 @@
     <a href="https://github.com/RtCoD-Stuff"><img src="https://img.shields.io/badge/Forge-47.3+-4A0E4E?style=for-the-badge&logo=curseforge&logoColor=white" /></a>
     <a href="https://rtcod-stuff.github.io/"><img
     src="https://img.shields.io/static/v1?label=Website&message=Official%20Site&color=8B0000&style=for-the-badge&logo=githubpages&logoColor=white" /></a>              
-    <a href="https://discord.gg/JCFDJtrWvF"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>      <a href="https://t.me/RtCoD_server"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>   
+    <a href="https://discord.com/invite/9mPS3sXq">
+    <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>                                                <a href="https://t.me/RtCoD_server"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>   
   </p>
 
   <p align="center">
